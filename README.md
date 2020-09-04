@@ -27,7 +27,7 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
+
 <a href="https://juejin.im/user/5c749a736fb9a049a97a5a8e"><img alt="掘金" src="https://img.shields.io/badge/掘金-LuckRain7-blue?style=flat-square&logo=AngelList"></a>
 
 <a href="https://segmentfault.com/blog/RainCode"><img alt="segmentfault 思否" src="https://img.shields.io/badge/segmentfault思否-RainCode专栏-blue?style=flat-square&logo=AngelList"></a>
@@ -35,7 +35,7 @@
 <a href="https://www.zhihu.com/people/luckrain7"><img alt="知乎" src="https://img.shields.io/badge/知乎-震雨Rain-blue?style=flat-square&logo=zhihu"></a>
 
 <a href="#">🏅公众号：RainCode</a>
-</p>
+
 
 
 <!--
