@@ -34,7 +34,8 @@
 
 <a href="https://www.zhihu.com/people/luckrain7"><img alt="知乎" src="https://img.shields.io/badge/知乎-震雨Rain-blue?style=flat-square&logo=zhihu"></a>
 
-<a href="#">🏅公众号：RainCode</a>
+<a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI0ODczNDM0NQ==&scene=124#wechat_redirect"><img alt="知乎" src="https://img.shields.io/badge/微信公众号-RainCode-blue?style=flat-square&logo=AngelList"></a>
+
 
 
 
