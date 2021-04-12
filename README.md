@@ -15,7 +15,7 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Node.js
 - 🔑 &nbsp; JQuery | Bootstrap | Vue | Cesium | OpenLayer | ArcGIS API For JavaScript | Webpack
-- 🛢 &nbsp; MySQL | MongoDB | PostgreSQL
+- 🛢 &nbsp; MongoDB
 - 🔧 &nbsp; Git | Markdown
 - 🖥 &nbsp; Photoshop | GeoServer | ArcGIS | Udig
 
