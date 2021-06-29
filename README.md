@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; **Working :** Efforts to graduate from SDAU
+- 🎓 &nbsp; **Working :** BeiJing
 - 🌱 &nbsp; **Learning :** Vue3 | NodeJS | ArcGIS API For JavaScript | Docker
 - ❤️ &nbsp; **Hobbies :** Books 📚 | Music 🎧 | Skateboard 🛹
 - 💬 &nbsp; **Ask me about :** Anything!, I'm happy to help 👋
